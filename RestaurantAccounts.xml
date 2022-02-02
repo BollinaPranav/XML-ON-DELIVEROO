@@ -1,0 +1,56 @@
+<RestaurantAccounts>
+<Restaurant accountNo="6874">
+		<Name>El Restaurante</Name>
+		<Cuisine>Mexican</Cuisine>
+		<Description>Burritos, Burrito bowls, Tacos and more!</Description>
+		<Rating>3.5</Rating>
+		<Address>6 Pearse St, Dublin 2, Ireland</Address>
+		<ContactInformation>018634936</ContactInformation>
+</Restaurant>
+
+	<Restaurant accountNo="3212">
+    <Name>Musashi</Name>
+    <Cuisine>Asian</Cuisine>
+    <Description>Dedicated to freshness</Description>
+    <Rating>4.6</Rating>
+    <Address>Blackthorn Road, Sandyford, Dublin 18, Ireland</Address>
+	  <ContactInformation>015344336</ContactInformation>
+	</Restaurant>
+
+	<Restaurant accountNo="4567">
+    <Name>Le Festin</Name>
+    <Cuisine>French</Cuisine>
+    <Description>Les rêves des amoureux sont comme le bon vin</Description>
+    <Rating>4.8</Rating>
+    <Address>6 Drumcondra Road Lower, Drumcondra, Dublin 1, Ireland</Address>
+	  <ContactInformation>012441139</ContactInformation>
+	</Restaurant>
+
+<Restaurant accountNo="6875">
+    <Name>La Pizzeria</Name>
+    <Cuisine>Italian</Cuisine>
+    <Description>Pizza, Pasta and Desserts!</Description>
+    <Rating>4.1</Rating>
+    <Address>12 Nassau St, Dublin 2, Ireland</Address>
+    <ContactInformation>018634359</ContactInformation>
+  </Restaurant>
+
+<Restaurant accountNo="7322">
+    <Name>Yum thai</Name>
+    <Cuisine>Thai</Cuisine>
+    <Description>Noodle bar</Description>
+    <Rating>4.2</Rating>
+    <Address>Duke St, Dublin 2, Ireland</Address>
+    <ContactInformation>016608833</ContactInformation>
+  </Restaurant>
+
+<Restaurant accountNo="9876">
+    <Name>Indian Takeaway</Name>
+    <Cuisine>Indian</Cuisine>
+    <Description>All things nice!</Description>
+    <Rating>3.9</Rating>
+    <Address>1 William St, Dublin 2, Ireland</Address>
+    <ContactInformation>018976546</ContactInformation>
+  </Restaurant>
+
+</RestaurantAccounts>

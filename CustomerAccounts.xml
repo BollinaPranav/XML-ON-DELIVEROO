@@ -1,0 +1,50 @@
+
+<CustomerAccounts>
+<Customer accountNo="3333">
+	<Name>Hannah</Name>
+	<Email>hannah@email.com</Email>
+	<Password>Inf0Managmen7</Password>
+	<PhoneNumber>0896522222</PhoneNumber>
+	<Address>3 The Links, Portmarnock, Co.Dublin, Ireland</Address>
+</Customer>
+
+ <Customer accountNo="6324">
+   <Name>Yingqi</Name>
+   <Email>Yingqi@email.com</Email>
+   <Password>Inf256453</Password>
+   <PhoneNumber>0893455555</PhoneNumber>
+   <Address>114 Kilmacud Road, Stillorgan, Dublin 18, Ireland</Address>
+ </Customer>
+
+ <Customer accountNo="1234">
+   <Name>Rishi</Name>
+   <Email>rishi@email.com</Email>
+   <Password>Password</Password>
+   <PhoneNumber>0871234567</PhoneNumber>
+   <Address>Byrne's Lane, Dublin Docklands, Dublin 2, Ireland</Address>
+ </Customer>
+
+<Customer accountNo="5656">
+    <Name>Wiktoria</Name>
+    <Email>wiktoria@email.com</Email>
+    <Password>InfOMgm7</Password>
+    <PhoneNumber>0873334443</PhoneNumber>
+    <Address>56 Termon Abbey, Drogheda, Co.Louth, Ireland</Address>
+  </Customer>
+
+<Customer accountNo="7366">
+    <Name>Pranav</Name>
+    <Email>pranav@email.com</Email>
+    <Password>ligma@sugma</Password>
+    <PhoneNumber>0894918402</PhoneNumber>
+    <Address>333A Woodstock Rd.,Belfast,Ireland</Address>
+  </Customer>
+
+<Customer accountNo="1010">
+    <Name>Chloe</Name>
+    <Email>chloe@email.com</Email>
+    <Password>InFo21</Password>
+    <PhoneNumber>0876854494</PhoneNumber>
+    <Address>101 Seatown Road, Swords, Co.Dublin</Address>
+  </Customer>
+</CustomerAccounts>

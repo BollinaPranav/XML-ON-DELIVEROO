@@ -1,0 +1,46 @@
+<!-- must contain zero or more orders
+		
+-->
+<!DOCTYPE DelivererAccounts [
+<!ELEMENT DelivererAccounts (Deliverer*)>
+
+<!ELEMENT Deliverer (receivedFood, deliveredFood, receivedPayment)>
+<!ATTLIST Deliverer driverID CDATA #IMPLIED>
+<!ELEMENT receivesFood (#PCDATA)> 
+<!ELEMENT deliveredFood (#PCDATA)>
+<!ELEMENT receivedPayment (#PCDATA)>
+]>
+
+<DelivererAccounts>
+  <Deliverer driverID="2345">
+    <recievedFood>False</recievedFood>
+    <deliveredFood>False</deliveredFood>
+    <recievedPayment>False</recievedPayment>
+  </Deliverer>
+  <Deliverer driverID="5562">
+    <recievedFood>True</recievedFood>
+    <deliveredFood>False</deliveredFood>
+    <recievedPayment>False</recievedPayment>
+  </Deliverer>
+  <Deliverer driverID="6789">
+    <recievedFood>True</recievedFood>
+    <deliveredFood>True</deliveredFood>
+    <recievedPayment>False</recievedPayment>
+  </Deliverer>
+  <Deliver accountNo="2356">
+    <Name>John</Name>
+    <DriverID>2367</DriverID>
+    <ContactInformation>0866666666</ContactInformation>
+  </Deliver>
+  <Deliverer driverID="6431">
+    <recievedFood>True</recievedFood>
+    <deliveredFood>True</deliveredFood>
+    <recievedPayment>True</recievedPayment>
+  </Deliverer>
+  <Deliverer driverID="1001">
+    <recievedFood>True</recievedFood>
+    <deliveredFood>True</deliveredFood>
+    <recievedPayment>True</recievedPayment>
+  </Deliverer>
+</DelivererAccounts>
+
